@@ -5,6 +5,7 @@ public class sum{
 
         int c = a * b;
 
-        System.out.println("the sum of two number is :"+ c);
+        System.out.println("the multiply of two number is :"+ c);
+        System.out.println(" i have made change in this file ");
     }
 }
